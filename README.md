@@ -1,1 +1,1 @@
-[Draft](https://github.com/myazzurro/meshsr-wiki) for MeshSr Wiki.
+[Draft](https://github.com/myazzurro/meshsr-wiki/wiki) for MeshSr Wiki.
